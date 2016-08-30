@@ -6,4 +6,4 @@ zjf update
 wanghao update
 Creating a new breach
 Creating a new branch is quick and simple
-no-ff
+no-ff no-ff
